@@ -1,0 +1,6 @@
+{
+  "name": "KopiFlow 3D - Self-Order & Auto-Payment Cafe SaaS",
+  "description": "Prototipe sistem pemesanan mandiri & auto-pembayaran QRIS kafe dengan animasi 3D interaktif dan Barista AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
